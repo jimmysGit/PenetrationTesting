@@ -2,7 +2,7 @@
 A bunch of penetration testing stuff including documents and walkthroughs
 
 # Report improvements
-I was given 2 hours to assess the machine and write a report. I have since found fewimprovements that i could have made to make the report better. Below i have listed some improvements that i believe i could have made.
+I was given 2 hours to assess the machine and write a report. I have since found a few improvements that i could have made to make the report better. Below I have listed some improvements that I believe would be beneficial ot the overall report.
 
 # Information gathering
 There was no information gathering required for this report other than a scan of the subnet and subsequent machine. Most cases will require gathering of target information from various sources which could result in a more detailed information gathering section.
