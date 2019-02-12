@@ -1,2 +1,2 @@
 # PenetrationTesting
-A bunch of penetration testing stuff including documents and walkthroughs
+Just few write ups of beginners penetration testing VM's. 
